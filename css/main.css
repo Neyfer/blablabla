@@ -1,0 +1,42 @@
+.modal-header{
+    background-color: #6c757d;
+    color: white;
+}
+
+.modal-header .btn-close{
+    background-color: white;
+}
+
+.form-control:focus{
+    box-shadow: 0 0 0 0.13rem #6c757d !important;
+}
+
+footer{
+    font-size: 12pt;
+    font-weight: 500;
+}
+
+.card-body{
+    position:relative;top:-4.6rem;  
+    text-align: center;
+    height: 80px;
+}
+
+.card-footer{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.social-links{
+    margin-right: 10px;
+}
+
+.card{
+    margin:auto;
+    top: 7%;
+}
+
+
+
+
